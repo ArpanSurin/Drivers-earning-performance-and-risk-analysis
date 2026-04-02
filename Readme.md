@@ -10,6 +10,8 @@ The goal was to move beyond surface-level metrics and answer strategic business 
 - Do higher-rated drivers actually earn more?
 - How much revenue is at risk due to potential driver churn?
 
+**Note:** This dataset was generated using a python program which you'll find in the scripts folder
+
 ## 🧠 Key Insights
 
 ### 1️⃣ Top 3 Healthiest Cities (Last 30 Days)
@@ -74,3 +76,9 @@ If high-earning drivers churn:
 - Revenue impact becomes disproportionate
 
 Retention strategies should prioritize high-value drivers rather than treating all churn equally.
+
+## 💡Future improvements
+1. Implementing a backend service and deploying that backend for a server to run on.
+2. Live database hosted on a cloud platform into which the data can be pushed to.
+3. Deploying the entire project on Docker, encapsulating the whole project and ensuring that it runs on any system without crashing.
+
