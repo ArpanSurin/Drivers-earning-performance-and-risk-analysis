@@ -1,4 +1,6 @@
-# 🚖 Marketplace Analytics & Driver Churn Risk Analysis
+# 🚖 Driver Earning Performance & risk Analysis
+
+![Driver analytics Dashboard]()
 
 ## 📊 Project Overview
 
@@ -10,7 +12,16 @@ The goal was to move beyond surface-level metrics and answer strategic business 
 - Do higher-rated drivers actually earn more?
 - How much revenue is at risk due to potential driver churn?
 
-**Note:** This dataset was generated using a python program which you'll find in the scripts folder
+## Dataset
+
+The synthetic dataset was generated using `notebooks/generate_dataset.ipynb`. 
+
+To regenerate the data, open the notebook in Jupyter and run all cells:
+```bash
+jupyter notebook notebooks/generate_dataset.ipynb
+```
+
+Or if you prefer not to regenerate, a sample of the dataset is available in `dataset/`.
 
 ## 🧠 Key Insights
 
