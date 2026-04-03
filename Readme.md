@@ -13,15 +13,10 @@ The goal was to move beyond surface-level metrics and answer strategic business 
 - How much revenue is at risk due to potential driver churn?
 
 ## Dataset
+The synthetic dataset was generated using `notebooks/generate_dataset.ipynb`.
+To regenerate it, run all cells in the notebook.
 
-The synthetic dataset was generated using `notebooks/generate_dataset.ipynb`. 
-
-To regenerate the data, open the notebook in Jupyter and run all cells:
-```bash
-jupyter notebook notebooks/generate_dataset.ipynb
-```
-
-Or if you prefer not to regenerate, a sample of the dataset is available in `dataset/`.
+Total size: ~500MB (excluded from repo due to file size limits)
 
 ## 🧠 Key Insights
 
