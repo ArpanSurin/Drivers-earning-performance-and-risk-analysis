@@ -1,6 +1,6 @@
 # 🚖 Driver Earning Performance & risk Analysis
 
-![Driver analytics Dashboard](https://github.com/ArpanSurin/Drivers-earning-performance-and-risk-analysis/blob/main/Driver%20analytics%20dashboard.png)
+![Driver analytics Dashboard](https://github.com/ArpanSurin/Drivers-earning-performance-and-risk-analysis/blob/main/Driver_analytics_dashboard.png)
 
 ## 📊 Project Overview
 
