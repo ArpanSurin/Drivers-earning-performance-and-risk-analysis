@@ -1,6 +1,6 @@
 # 🚖 Driver Earning Performance & risk Analysis
 
-![Driver analytics Dashboard]()
+![Driver analytics Dashboard](https://github.com/ArpanSurin/Drivers-earning-performance-and-risk-analysis/blob/main/Driver%20analytics%20dashboard.png)
 
 ## 📊 Project Overview
 
@@ -34,7 +34,7 @@ The top performing cities were:
 
 These cities demonstrated strong marketplace balance — healthy demand, operational efficiency, and consistent revenue generation.
 
-![table view]()
+![table view](https://github.com/ArpanSurin/Drivers-earning-performance-and-risk-analysis/blob/main/result_tables/city-level-view.png)
 
 ### 2️⃣ Do Higher Rated Drivers Earn More? (Last 60 Days)
 
@@ -53,7 +53,7 @@ After segmenting drivers into rating tiers and analyzing earnings and cancellati
 Rating alone is not a strong predictor of earnings.
 Other factors such as trip frequency, location, and availability likely play a larger role.
 
-![table view]()
+![table view](https://github.com/ArpanSurin/Drivers-earning-performance-and-risk-analysis/blob/main/result_tables/driver-quality-earning-view.png)
 
 ### 3️⃣ High-Earning Drivers & Revenue at Risk
 
@@ -64,7 +64,7 @@ Key findings:
 - Labeled drivers as “at risk” if they were historically active but had no trips in the last 30 days
 - Measured both driver churn concentration and revenue exposure
 
-![table view]()
+![table view](https://github.com/ArpanSurin/Drivers-earning-performance-and-risk-analysis/blob/main/result_tables/driver-churn-risk.png)
 
 ### 🚨 Results:
 
